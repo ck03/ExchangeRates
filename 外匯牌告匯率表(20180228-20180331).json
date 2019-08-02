@@ -1,0 +1,3937 @@
+{
+  "Result": [
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.95",
+      "cerbs": "29.492",
+      "serbb": "29.25",
+      "serbs": "29.35",
+      "date": "20180301",
+      "_id": 704
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.598",
+      "cerbs": "3.788",
+      "serbb": "3.713",
+      "serbs": "3.773",
+      "date": "20180301",
+      "_id": 705
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.23",
+      "cerbs": "41.16",
+      "serbb": "40.1",
+      "serbs": "40.52",
+      "date": "20180301",
+      "_id": 706
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.35",
+      "cerbs": "23.01",
+      "serbb": "22.54",
+      "serbs": "22.77",
+      "date": "20180301",
+      "_id": 707
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.46",
+      "cerbs": "23.2",
+      "serbb": "22.73",
+      "serbs": "22.95",
+      "date": "20180301",
+      "_id": 708
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.6",
+      "cerbs": "22.38",
+      "serbb": "22.02",
+      "serbs": "22.2",
+      "date": "20180301",
+      "_id": 709
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.32",
+      "cerbs": "31.38",
+      "serbb": "30.85",
+      "serbs": "31.14",
+      "date": "20180301",
+      "_id": 710
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.266",
+      "cerbs": "0.277",
+      "serbb": "0.2724",
+      "serbs": "0.2764",
+      "date": "20180301",
+      "_id": 711
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.43",
+      "serbs": "2.51",
+      "date": "20180301",
+      "_id": 712
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.15",
+      "cerbs": "3.66",
+      "serbb": "3.49",
+      "serbs": "3.59",
+      "date": "20180301",
+      "_id": 713
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.79",
+      "cerbs": "21.42",
+      "serbb": "21.03",
+      "serbs": "21.23",
+      "date": "20180301",
+      "_id": 714
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.826",
+      "cerbs": "0.969",
+      "serbb": "0.9145",
+      "serbs": "0.9545",
+      "date": "20180301",
+      "_id": 715
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4909",
+      "cerbs": "0.6239",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180301",
+      "_id": 716
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180301",
+      "_id": 717
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.06",
+      "cerbs": "36.21",
+      "serbb": "35.56",
+      "serbs": "35.96",
+      "date": "20180301",
+      "_id": 718
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02528",
+      "cerbs": "0.02918",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180301",
+      "_id": 719
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180301",
+      "_id": 720
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.397",
+      "cerbs": "7.987",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180301",
+      "_id": 721
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.52",
+      "cerbs": "4.682",
+      "serbb": "4.592",
+      "serbs": "4.642",
+      "date": "20180301",
+      "_id": 722
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.925",
+      "cerbs": "29.467",
+      "serbb": "29.225",
+      "serbs": "29.325",
+      "date": "20180302",
+      "_id": 723
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.594",
+      "cerbs": "3.784",
+      "serbb": "3.709",
+      "serbs": "3.769",
+      "date": "20180302",
+      "_id": 724
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.24",
+      "cerbs": "41.17",
+      "serbb": "40.11",
+      "serbs": "40.53",
+      "date": "20180302",
+      "_id": 725
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.41",
+      "cerbs": "23.07",
+      "serbb": "22.6",
+      "serbs": "22.83",
+      "date": "20180302",
+      "_id": 726
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.43",
+      "cerbs": "23.17",
+      "serbb": "22.7",
+      "serbs": "22.92",
+      "date": "20180302",
+      "_id": 727
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.66",
+      "cerbs": "22.44",
+      "serbb": "22.08",
+      "serbs": "22.26",
+      "date": "20180302",
+      "_id": 728
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.47",
+      "cerbs": "31.53",
+      "serbb": "31",
+      "serbs": "31.29",
+      "date": "20180302",
+      "_id": 729
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2685",
+      "cerbs": "0.2795",
+      "serbb": "0.2749",
+      "serbs": "0.2789",
+      "date": "20180302",
+      "_id": 730
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.42",
+      "serbs": "2.5",
+      "date": "20180302",
+      "_id": 731
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.16",
+      "cerbs": "3.67",
+      "serbb": "3.5",
+      "serbs": "3.6",
+      "date": "20180302",
+      "_id": 732
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.94",
+      "cerbs": "21.57",
+      "serbb": "21.18",
+      "serbs": "21.38",
+      "date": "20180302",
+      "_id": 733
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.827",
+      "cerbs": "0.97",
+      "serbb": "0.9155",
+      "serbs": "0.9555",
+      "date": "20180302",
+      "_id": 734
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4907",
+      "cerbs": "0.6237",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180302",
+      "_id": 735
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180302",
+      "_id": 736
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.2",
+      "cerbs": "36.35",
+      "serbb": "35.7",
+      "serbs": "36.1",
+      "date": "20180302",
+      "_id": 737
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02541",
+      "cerbs": "0.02931",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180302",
+      "_id": 738
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180302",
+      "_id": 739
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.422",
+      "cerbs": "8.012",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180302",
+      "_id": 740
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.513",
+      "cerbs": "4.675",
+      "serbb": "4.585",
+      "serbs": "4.635",
+      "date": "20180302",
+      "_id": 741
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.93",
+      "cerbs": "29.472",
+      "serbb": "29.23",
+      "serbs": "29.33",
+      "date": "20180305",
+      "_id": 742
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.593",
+      "cerbs": "3.783",
+      "serbb": "3.708",
+      "serbs": "3.768",
+      "date": "20180305",
+      "_id": 743
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.28",
+      "cerbs": "41.21",
+      "serbb": "40.15",
+      "serbs": "40.57",
+      "date": "20180305",
+      "_id": 744
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.35",
+      "cerbs": "23.01",
+      "serbb": "22.54",
+      "serbs": "22.77",
+      "date": "20180305",
+      "_id": 745
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.31",
+      "cerbs": "23.05",
+      "serbb": "22.58",
+      "serbs": "22.8",
+      "date": "20180305",
+      "_id": 746
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.66",
+      "cerbs": "22.44",
+      "serbb": "22.08",
+      "serbs": "22.26",
+      "date": "20180305",
+      "_id": 747
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.56",
+      "cerbs": "31.62",
+      "serbb": "31.09",
+      "serbs": "31.38",
+      "date": "20180305",
+      "_id": 748
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2694",
+      "cerbs": "0.2804",
+      "serbb": "0.2758",
+      "serbs": "0.2798",
+      "date": "20180305",
+      "_id": 749
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.39",
+      "serbs": "2.47",
+      "date": "20180305",
+      "_id": 750
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.15",
+      "cerbs": "3.66",
+      "serbb": "3.49",
+      "serbs": "3.59",
+      "date": "20180305",
+      "_id": 751
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.77",
+      "cerbs": "21.4",
+      "serbb": "21.01",
+      "serbs": "21.21",
+      "date": "20180305",
+      "_id": 752
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8276",
+      "cerbs": "0.9706",
+      "serbb": "0.9161",
+      "serbs": "0.9561",
+      "date": "20180305",
+      "_id": 753
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.49",
+      "cerbs": "0.623",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180305",
+      "_id": 754
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180305",
+      "_id": 755
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.3",
+      "cerbs": "36.45",
+      "serbb": "35.8",
+      "serbs": "36.2",
+      "date": "20180305",
+      "_id": 756
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02531",
+      "cerbs": "0.02921",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180305",
+      "_id": 757
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180305",
+      "_id": 758
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.436",
+      "cerbs": "8.026",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180305",
+      "_id": 759
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.521",
+      "cerbs": "4.683",
+      "serbb": "4.593",
+      "serbs": "4.643",
+      "date": "20180305",
+      "_id": 760
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.925",
+      "cerbs": "29.467",
+      "serbb": "29.225",
+      "serbs": "29.325",
+      "date": "20180306",
+      "_id": 761
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.592",
+      "cerbs": "3.782",
+      "serbb": "3.707",
+      "serbs": "3.767",
+      "date": "20180306",
+      "_id": 762
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.4",
+      "cerbs": "41.33",
+      "serbb": "40.27",
+      "serbs": "40.69",
+      "date": "20180306",
+      "_id": 763
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.41",
+      "cerbs": "23.07",
+      "serbb": "22.6",
+      "serbs": "22.83",
+      "date": "20180306",
+      "_id": 764
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.17",
+      "cerbs": "22.91",
+      "serbb": "22.44",
+      "serbs": "22.66",
+      "date": "20180306",
+      "_id": 765
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.67",
+      "cerbs": "22.45",
+      "serbb": "22.09",
+      "serbs": "22.27",
+      "date": "20180306",
+      "_id": 766
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.42",
+      "cerbs": "31.48",
+      "serbb": "30.95",
+      "serbs": "31.24",
+      "date": "20180306",
+      "_id": 767
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2675",
+      "cerbs": "0.2785",
+      "serbb": "0.2739",
+      "serbs": "0.2779",
+      "date": "20180306",
+      "_id": 768
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.43",
+      "serbs": "2.51",
+      "date": "20180306",
+      "_id": 769
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.15",
+      "cerbs": "3.66",
+      "serbb": "3.49",
+      "serbs": "3.59",
+      "date": "20180306",
+      "_id": 770
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.85",
+      "cerbs": "21.48",
+      "serbb": "21.09",
+      "serbs": "21.29",
+      "date": "20180306",
+      "_id": 771
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8279",
+      "cerbs": "0.9709",
+      "serbb": "0.9164",
+      "serbs": "0.9564",
+      "date": "20180306",
+      "_id": 772
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4893",
+      "cerbs": "0.6223",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180306",
+      "_id": 773
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180306",
+      "_id": 774
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.41",
+      "cerbs": "36.56",
+      "serbb": "35.91",
+      "serbs": "36.31",
+      "date": "20180306",
+      "_id": 775
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02542",
+      "cerbs": "0.02932",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180306",
+      "_id": 776
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180306",
+      "_id": 777
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.438",
+      "cerbs": "8.028",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180306",
+      "_id": 778
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.518",
+      "cerbs": "4.68",
+      "serbb": "4.59",
+      "serbs": "4.64",
+      "date": "20180306",
+      "_id": 779
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.9",
+      "cerbs": "29.442",
+      "serbb": "29.2",
+      "serbs": "29.3",
+      "date": "20180307",
+      "_id": 780
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.588",
+      "cerbs": "3.778",
+      "serbb": "3.703",
+      "serbs": "3.763",
+      "date": "20180307",
+      "_id": 781
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.52",
+      "cerbs": "41.45",
+      "serbb": "40.39",
+      "serbs": "40.81",
+      "date": "20180307",
+      "_id": 782
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.53",
+      "cerbs": "23.19",
+      "serbb": "22.72",
+      "serbs": "22.95",
+      "date": "20180307",
+      "_id": 783
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.24",
+      "cerbs": "22.98",
+      "serbb": "22.51",
+      "serbs": "22.73",
+      "date": "20180307",
+      "_id": 784
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.73",
+      "cerbs": "22.51",
+      "serbb": "22.15",
+      "serbs": "22.33",
+      "date": "20180307",
+      "_id": 785
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.42",
+      "cerbs": "31.48",
+      "serbb": "30.95",
+      "serbs": "31.24",
+      "date": "20180307",
+      "_id": 786
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2683",
+      "cerbs": "0.2793",
+      "serbb": "0.2747",
+      "serbs": "0.2787",
+      "date": "20180307",
+      "_id": 787
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.43",
+      "serbs": "2.51",
+      "date": "20180307",
+      "_id": 788
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.17",
+      "cerbs": "3.68",
+      "serbb": "3.51",
+      "serbs": "3.61",
+      "date": "20180307",
+      "_id": 789
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.98",
+      "cerbs": "21.61",
+      "serbb": "21.22",
+      "serbs": "21.42",
+      "date": "20180307",
+      "_id": 790
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8295",
+      "cerbs": "0.9725",
+      "serbb": "0.918",
+      "serbs": "0.958",
+      "date": "20180307",
+      "_id": 791
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4893",
+      "cerbs": "0.6223",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180307",
+      "_id": 792
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180307",
+      "_id": 793
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.6",
+      "cerbs": "36.75",
+      "serbb": "36.1",
+      "serbs": "36.5",
+      "date": "20180307",
+      "_id": 794
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02566",
+      "cerbs": "0.02956",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180307",
+      "_id": 795
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180307",
+      "_id": 796
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.432",
+      "cerbs": "8.022",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180307",
+      "_id": 797
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.53",
+      "cerbs": "4.692",
+      "serbb": "4.602",
+      "serbs": "4.652",
+      "date": "20180307",
+      "_id": 798
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.91",
+      "cerbs": "29.452",
+      "serbb": "29.21",
+      "serbs": "29.31",
+      "date": "20180308",
+      "_id": 799
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.59",
+      "cerbs": "3.78",
+      "serbb": "3.705",
+      "serbs": "3.765",
+      "date": "20180308",
+      "_id": 800
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.61",
+      "cerbs": "41.54",
+      "serbb": "40.48",
+      "serbs": "40.9",
+      "date": "20180308",
+      "_id": 801
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.57",
+      "cerbs": "23.23",
+      "serbb": "22.76",
+      "serbs": "22.99",
+      "date": "20180308",
+      "_id": 802
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.32",
+      "cerbs": "23.06",
+      "serbb": "22.59",
+      "serbs": "22.81",
+      "date": "20180308",
+      "_id": 803
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.76",
+      "cerbs": "22.54",
+      "serbb": "22.18",
+      "serbs": "22.36",
+      "date": "20180308",
+      "_id": 804
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.35",
+      "cerbs": "31.41",
+      "serbb": "30.88",
+      "serbs": "31.17",
+      "date": "20180308",
+      "_id": 805
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2679",
+      "cerbs": "0.2789",
+      "serbb": "0.2743",
+      "serbs": "0.2783",
+      "date": "20180308",
+      "_id": 806
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.42",
+      "serbs": "2.5",
+      "date": "20180308",
+      "_id": 807
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.17",
+      "cerbs": "3.68",
+      "serbb": "3.51",
+      "serbs": "3.61",
+      "date": "20180308",
+      "_id": 808
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.99",
+      "cerbs": "21.62",
+      "serbb": "21.23",
+      "serbs": "21.43",
+      "date": "20180308",
+      "_id": 809
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8313",
+      "cerbs": "0.9743",
+      "serbb": "0.9198",
+      "serbs": "0.9598",
+      "date": "20180308",
+      "_id": 810
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4888",
+      "cerbs": "0.6218",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180308",
+      "_id": 811
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180308",
+      "_id": 812
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.62",
+      "cerbs": "36.77",
+      "serbb": "36.12",
+      "serbs": "36.52",
+      "date": "20180308",
+      "_id": 813
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02559",
+      "cerbs": "0.02949",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180308",
+      "_id": 814
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180308",
+      "_id": 815
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.427",
+      "cerbs": "8.017",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180308",
+      "_id": 816
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.527",
+      "cerbs": "4.689",
+      "serbb": "4.599",
+      "serbs": "4.649",
+      "date": "20180308",
+      "_id": 817
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.94",
+      "cerbs": "29.482",
+      "serbb": "29.24",
+      "serbs": "29.34",
+      "date": "20180309",
+      "_id": 818
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.591",
+      "cerbs": "3.781",
+      "serbb": "3.706",
+      "serbs": "3.766",
+      "date": "20180309",
+      "_id": 819
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.44",
+      "cerbs": "41.37",
+      "serbb": "40.31",
+      "serbs": "40.73",
+      "date": "20180309",
+      "_id": 820
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.55",
+      "cerbs": "23.21",
+      "serbb": "22.74",
+      "serbs": "22.97",
+      "date": "20180309",
+      "_id": 821
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.37",
+      "cerbs": "23.11",
+      "serbb": "22.64",
+      "serbs": "22.86",
+      "date": "20180309",
+      "_id": 822
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.72",
+      "cerbs": "22.5",
+      "serbb": "22.14",
+      "serbs": "22.32",
+      "date": "20180309",
+      "_id": 823
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.1",
+      "cerbs": "31.16",
+      "serbb": "30.63",
+      "serbs": "30.92",
+      "date": "20180309",
+      "_id": 824
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2661",
+      "cerbs": "0.2771",
+      "serbb": "0.2725",
+      "serbs": "0.2765",
+      "date": "20180309",
+      "_id": 825
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.42",
+      "serbs": "2.5",
+      "date": "20180309",
+      "_id": 826
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.16",
+      "cerbs": "3.67",
+      "serbb": "3.5",
+      "serbs": "3.6",
+      "date": "20180309",
+      "_id": 827
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.98",
+      "cerbs": "21.61",
+      "serbb": "21.22",
+      "serbs": "21.42",
+      "date": "20180309",
+      "_id": 828
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8301",
+      "cerbs": "0.9731",
+      "serbb": "0.9186",
+      "serbs": "0.9586",
+      "date": "20180309",
+      "_id": 829
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4895",
+      "cerbs": "0.6225",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180309",
+      "_id": 830
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180309",
+      "_id": 831
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.37",
+      "cerbs": "36.52",
+      "serbb": "35.87",
+      "serbs": "36.27",
+      "date": "20180309",
+      "_id": 832
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02567",
+      "cerbs": "0.02957",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180309",
+      "_id": 833
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180309",
+      "_id": 834
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.421",
+      "cerbs": "8.011",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180309",
+      "_id": 835
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.525",
+      "cerbs": "4.687",
+      "serbb": "4.597",
+      "serbs": "4.647",
+      "date": "20180309",
+      "_id": 836
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.925",
+      "cerbs": "29.467",
+      "serbb": "29.225",
+      "serbs": "29.325",
+      "date": "20180312",
+      "_id": 837
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.589",
+      "cerbs": "3.779",
+      "serbb": "3.704",
+      "serbs": "3.764",
+      "date": "20180312",
+      "_id": 838
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.54",
+      "cerbs": "41.47",
+      "serbb": "40.41",
+      "serbs": "40.83",
+      "date": "20180312",
+      "_id": 839
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.74",
+      "cerbs": "23.4",
+      "serbb": "22.93",
+      "serbs": "23.16",
+      "date": "20180312",
+      "_id": 840
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.47",
+      "cerbs": "23.21",
+      "serbb": "22.74",
+      "serbs": "22.96",
+      "date": "20180312",
+      "_id": 841
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.77",
+      "cerbs": "22.55",
+      "serbb": "22.19",
+      "serbs": "22.37",
+      "date": "20180312",
+      "_id": 842
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.15",
+      "cerbs": "31.21",
+      "serbb": "30.68",
+      "serbs": "30.97",
+      "date": "20180312",
+      "_id": 843
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2664",
+      "cerbs": "0.2774",
+      "serbb": "0.2728",
+      "serbs": "0.2768",
+      "date": "20180312",
+      "_id": 844
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.44",
+      "serbs": "2.52",
+      "date": "20180312",
+      "_id": 845
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.17",
+      "cerbs": "3.68",
+      "serbb": "3.51",
+      "serbs": "3.61",
+      "date": "20180312",
+      "_id": 846
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "21.09",
+      "cerbs": "21.72",
+      "serbb": "21.33",
+      "serbs": "21.53",
+      "date": "20180312",
+      "_id": 847
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8315",
+      "cerbs": "0.9745",
+      "serbb": "0.92",
+      "serbs": "0.96",
+      "date": "20180312",
+      "_id": 848
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4891",
+      "cerbs": "0.6221",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180312",
+      "_id": 849
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180312",
+      "_id": 850
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.42",
+      "cerbs": "36.57",
+      "serbb": "35.92",
+      "serbs": "36.32",
+      "date": "20180312",
+      "_id": 851
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02575",
+      "cerbs": "0.02965",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180312",
+      "_id": 852
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180312",
+      "_id": 853
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.431",
+      "cerbs": "8.021",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180312",
+      "_id": 854
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.534",
+      "cerbs": "4.696",
+      "serbb": "4.606",
+      "serbs": "4.656",
+      "date": "20180312",
+      "_id": 855
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.9",
+      "cerbs": "29.442",
+      "serbb": "29.2",
+      "serbs": "29.3",
+      "date": "20180313",
+      "_id": 856
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.585",
+      "cerbs": "3.775",
+      "serbb": "3.7",
+      "serbs": "3.76",
+      "date": "20180313",
+      "_id": 857
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.55",
+      "cerbs": "41.48",
+      "serbb": "40.42",
+      "serbs": "40.84",
+      "date": "20180313",
+      "_id": 858
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.69",
+      "cerbs": "23.35",
+      "serbb": "22.88",
+      "serbs": "23.11",
+      "date": "20180313",
+      "_id": 859
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.37",
+      "cerbs": "23.11",
+      "serbb": "22.64",
+      "serbs": "22.86",
+      "date": "20180313",
+      "_id": 860
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.75",
+      "cerbs": "22.53",
+      "serbb": "22.17",
+      "serbs": "22.35",
+      "date": "20180313",
+      "_id": 861
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.14",
+      "cerbs": "31.2",
+      "serbb": "30.67",
+      "serbs": "30.96",
+      "date": "20180313",
+      "_id": 862
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2651",
+      "cerbs": "0.2761",
+      "serbb": "0.2715",
+      "serbs": "0.2755",
+      "date": "20180313",
+      "_id": 863
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.42",
+      "serbs": "2.5",
+      "date": "20180313",
+      "_id": 864
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.16",
+      "cerbs": "3.67",
+      "serbb": "3.5",
+      "serbs": "3.6",
+      "date": "20180313",
+      "_id": 865
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "21.07",
+      "cerbs": "21.7",
+      "serbb": "21.31",
+      "serbs": "21.51",
+      "date": "20180313",
+      "_id": 866
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8319",
+      "cerbs": "0.9749",
+      "serbb": "0.9204",
+      "serbs": "0.9604",
+      "date": "20180313",
+      "_id": 867
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4886",
+      "cerbs": "0.6216",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180313",
+      "_id": 868
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180313",
+      "_id": 869
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.34",
+      "cerbs": "36.49",
+      "serbb": "35.84",
+      "serbs": "36.24",
+      "date": "20180313",
+      "_id": 870
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.0257",
+      "cerbs": "0.0296",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180313",
+      "_id": 871
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180313",
+      "_id": 872
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.426",
+      "cerbs": "8.016",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180313",
+      "_id": 873
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.523",
+      "cerbs": "4.685",
+      "serbb": "4.595",
+      "serbs": "4.645",
+      "date": "20180313",
+      "_id": 874
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.9",
+      "cerbs": "29.442",
+      "serbb": "29.2",
+      "serbs": "29.3",
+      "date": "20180314",
+      "_id": 875
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.585",
+      "cerbs": "3.775",
+      "serbb": "3.7",
+      "serbs": "3.76",
+      "date": "20180314",
+      "_id": 876
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.77",
+      "cerbs": "41.7",
+      "serbb": "40.64",
+      "serbs": "41.06",
+      "date": "20180314",
+      "_id": 877
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.74",
+      "cerbs": "23.4",
+      "serbb": "22.93",
+      "serbs": "23.16",
+      "date": "20180314",
+      "_id": 878
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.2",
+      "cerbs": "22.94",
+      "serbb": "22.47",
+      "serbs": "22.69",
+      "date": "20180314",
+      "_id": 879
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.82",
+      "cerbs": "22.6",
+      "serbb": "22.24",
+      "serbs": "22.42",
+      "date": "20180314",
+      "_id": 880
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.28",
+      "cerbs": "31.34",
+      "serbb": "30.81",
+      "serbs": "31.1",
+      "date": "20180314",
+      "_id": 881
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2661",
+      "cerbs": "0.2771",
+      "serbb": "0.2725",
+      "serbs": "0.2765",
+      "date": "20180314",
+      "_id": 882
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.45",
+      "serbs": "2.53",
+      "date": "20180314",
+      "_id": 883
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.18",
+      "cerbs": "3.69",
+      "serbb": "3.52",
+      "serbs": "3.62",
+      "date": "20180314",
+      "_id": 884
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "21.1",
+      "cerbs": "21.73",
+      "serbb": "21.34",
+      "serbs": "21.54",
+      "date": "20180314",
+      "_id": 885
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8359",
+      "cerbs": "0.9789",
+      "serbb": "0.9244",
+      "serbs": "0.9644",
+      "date": "20180314",
+      "_id": 886
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4884",
+      "cerbs": "0.6214",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180314",
+      "_id": 887
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180314",
+      "_id": 888
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.55",
+      "cerbs": "36.7",
+      "serbb": "36.05",
+      "serbs": "36.45",
+      "date": "20180314",
+      "_id": 889
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02578",
+      "cerbs": "0.02968",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180314",
+      "_id": 890
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180314",
+      "_id": 891
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.434",
+      "cerbs": "8.024",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180314",
+      "_id": 892
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.537",
+      "cerbs": "4.699",
+      "serbb": "4.609",
+      "serbs": "4.659",
+      "date": "20180314",
+      "_id": 893
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.835",
+      "cerbs": "29.377",
+      "serbb": "29.135",
+      "serbs": "29.235",
+      "date": "20180315",
+      "_id": 894
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.576",
+      "cerbs": "3.766",
+      "serbb": "3.691",
+      "serbs": "3.751",
+      "date": "20180315",
+      "_id": 895
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.73",
+      "cerbs": "41.66",
+      "serbb": "40.6",
+      "serbs": "41.02",
+      "date": "20180315",
+      "_id": 896
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.65",
+      "cerbs": "23.31",
+      "serbb": "22.84",
+      "serbs": "23.07",
+      "date": "20180315",
+      "_id": 897
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.16",
+      "cerbs": "22.9",
+      "serbb": "22.43",
+      "serbs": "22.65",
+      "date": "20180315",
+      "_id": 898
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.77",
+      "cerbs": "22.55",
+      "serbb": "22.19",
+      "serbs": "22.37",
+      "date": "20180315",
+      "_id": 899
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.18",
+      "cerbs": "31.24",
+      "serbb": "30.71",
+      "serbs": "31",
+      "date": "20180315",
+      "_id": 900
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2668",
+      "cerbs": "0.2778",
+      "serbb": "0.2732",
+      "serbs": "0.2772",
+      "date": "20180315",
+      "_id": 901
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.43",
+      "serbs": "2.51",
+      "date": "20180315",
+      "_id": 902
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.18",
+      "cerbs": "3.69",
+      "serbb": "3.52",
+      "serbs": "3.62",
+      "date": "20180315",
+      "_id": 903
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "21.03",
+      "cerbs": "21.66",
+      "serbb": "21.27",
+      "serbs": "21.47",
+      "date": "20180315",
+      "_id": 904
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8331",
+      "cerbs": "0.9761",
+      "serbb": "0.9216",
+      "serbs": "0.9616",
+      "date": "20180315",
+      "_id": 905
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4876",
+      "cerbs": "0.6206",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180315",
+      "_id": 906
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180315",
+      "_id": 907
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.41",
+      "cerbs": "36.56",
+      "serbb": "35.91",
+      "serbs": "36.31",
+      "date": "20180315",
+      "_id": 908
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02567",
+      "cerbs": "0.02957",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180315",
+      "_id": 909
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180315",
+      "_id": 910
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.387",
+      "cerbs": "7.977",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180315",
+      "_id": 911
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.523",
+      "cerbs": "4.685",
+      "serbb": "4.595",
+      "serbs": "4.645",
+      "date": "20180315",
+      "_id": 912
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.81",
+      "cerbs": "29.352",
+      "serbb": "29.11",
+      "serbs": "29.21",
+      "date": "20180316",
+      "_id": 913
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.572",
+      "cerbs": "3.762",
+      "serbb": "3.687",
+      "serbs": "3.747",
+      "date": "20180316",
+      "_id": 914
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.59",
+      "cerbs": "41.52",
+      "serbb": "40.46",
+      "serbs": "40.88",
+      "date": "20180316",
+      "_id": 915
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.42",
+      "cerbs": "23.08",
+      "serbb": "22.61",
+      "serbs": "22.84",
+      "date": "20180316",
+      "_id": 916
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "21.95",
+      "cerbs": "22.69",
+      "serbb": "22.22",
+      "serbs": "22.44",
+      "date": "20180316",
+      "_id": 917
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.69",
+      "cerbs": "22.47",
+      "serbb": "22.11",
+      "serbs": "22.29",
+      "date": "20180316",
+      "_id": 918
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.01",
+      "cerbs": "31.07",
+      "serbb": "30.54",
+      "serbs": "30.83",
+      "date": "20180316",
+      "_id": 919
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2676",
+      "cerbs": "0.2786",
+      "serbb": "0.274",
+      "serbs": "0.278",
+      "date": "20180316",
+      "_id": 920
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.4",
+      "serbs": "2.48",
+      "date": "20180316",
+      "_id": 921
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.18",
+      "cerbs": "3.69",
+      "serbb": "3.52",
+      "serbs": "3.62",
+      "date": "20180316",
+      "_id": 922
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.82",
+      "cerbs": "21.45",
+      "serbb": "21.06",
+      "serbs": "21.26",
+      "date": "20180316",
+      "_id": 923
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8311",
+      "cerbs": "0.9741",
+      "serbb": "0.9196",
+      "serbs": "0.9596",
+      "date": "20180316",
+      "_id": 924
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.488",
+      "cerbs": "0.621",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180316",
+      "_id": 925
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180316",
+      "_id": 926
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.23",
+      "cerbs": "36.38",
+      "serbb": "35.73",
+      "serbs": "36.13",
+      "date": "20180316",
+      "_id": 927
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02558",
+      "cerbs": "0.02948",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180316",
+      "_id": 928
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180316",
+      "_id": 929
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.376",
+      "cerbs": "7.966",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180316",
+      "_id": 930
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.515",
+      "cerbs": "4.677",
+      "serbb": "4.587",
+      "serbs": "4.637",
+      "date": "20180316",
+      "_id": 931
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.84",
+      "cerbs": "29.382",
+      "serbb": "29.14",
+      "serbs": "29.24",
+      "date": "20180319",
+      "_id": 932
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.576",
+      "cerbs": "3.766",
+      "serbb": "3.691",
+      "serbs": "3.751",
+      "date": "20180319",
+      "_id": 933
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.57",
+      "cerbs": "41.5",
+      "serbb": "40.44",
+      "serbs": "40.86",
+      "date": "20180319",
+      "_id": 934
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.16",
+      "cerbs": "22.82",
+      "serbb": "22.35",
+      "serbs": "22.58",
+      "date": "20180319",
+      "_id": 935
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "21.87",
+      "cerbs": "22.61",
+      "serbb": "22.14",
+      "serbs": "22.36",
+      "date": "20180319",
+      "_id": 936
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.64",
+      "cerbs": "22.42",
+      "serbb": "22.06",
+      "serbs": "22.24",
+      "date": "20180319",
+      "_id": 937
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "29.89",
+      "cerbs": "30.95",
+      "serbb": "30.42",
+      "serbs": "30.71",
+      "date": "20180319",
+      "_id": 938
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2673",
+      "cerbs": "0.2783",
+      "serbb": "0.2737",
+      "serbs": "0.2777",
+      "date": "20180319",
+      "_id": 939
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.38",
+      "serbs": "2.46",
+      "date": "20180319",
+      "_id": 940
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.17",
+      "cerbs": "3.68",
+      "serbb": "3.51",
+      "serbs": "3.61",
+      "date": "20180319",
+      "_id": 941
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.69",
+      "cerbs": "21.32",
+      "serbb": "20.93",
+      "serbs": "21.13",
+      "date": "20180319",
+      "_id": 942
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8313",
+      "cerbs": "0.9743",
+      "serbb": "0.9198",
+      "serbs": "0.9598",
+      "date": "20180319",
+      "_id": 943
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4868",
+      "cerbs": "0.6198",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180319",
+      "_id": 944
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180319",
+      "_id": 945
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.1",
+      "cerbs": "36.25",
+      "serbb": "35.6",
+      "serbs": "36",
+      "date": "20180319",
+      "_id": 946
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02552",
+      "cerbs": "0.02942",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180319",
+      "_id": 947
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180319",
+      "_id": 948
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.389",
+      "cerbs": "7.979",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180319",
+      "_id": 949
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.514",
+      "cerbs": "4.676",
+      "serbb": "4.586",
+      "serbs": "4.636",
+      "date": "20180319",
+      "_id": 950
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.81",
+      "cerbs": "29.352",
+      "serbb": "29.11",
+      "serbs": "29.21",
+      "date": "20180320",
+      "_id": 951
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.572",
+      "cerbs": "3.762",
+      "serbb": "3.687",
+      "serbs": "3.747",
+      "date": "20180320",
+      "_id": 952
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.92",
+      "cerbs": "41.85",
+      "serbb": "40.79",
+      "serbs": "41.21",
+      "date": "20180320",
+      "_id": 953
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.14",
+      "cerbs": "22.8",
+      "serbb": "22.33",
+      "serbs": "22.56",
+      "date": "20180320",
+      "_id": 954
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "21.93",
+      "cerbs": "22.67",
+      "serbb": "22.2",
+      "serbs": "22.42",
+      "date": "20180320",
+      "_id": 955
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.66",
+      "cerbs": "22.44",
+      "serbb": "22.08",
+      "serbs": "22.26",
+      "date": "20180320",
+      "_id": 956
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "29.97",
+      "cerbs": "31.03",
+      "serbb": "30.5",
+      "serbs": "30.79",
+      "date": "20180320",
+      "_id": 957
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2655",
+      "cerbs": "0.2765",
+      "serbb": "0.2719",
+      "serbs": "0.2759",
+      "date": "20180320",
+      "_id": 958
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.38",
+      "serbs": "2.46",
+      "date": "20180320",
+      "_id": 959
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.18",
+      "cerbs": "3.69",
+      "serbb": "3.52",
+      "serbs": "3.62",
+      "date": "20180320",
+      "_id": 960
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.72",
+      "cerbs": "21.35",
+      "serbb": "20.96",
+      "serbs": "21.16",
+      "date": "20180320",
+      "_id": 961
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8312",
+      "cerbs": "0.9742",
+      "serbb": "0.9197",
+      "serbs": "0.9597",
+      "date": "20180320",
+      "_id": 962
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4863",
+      "cerbs": "0.6193",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180320",
+      "_id": 963
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180320",
+      "_id": 964
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.3",
+      "cerbs": "36.45",
+      "serbb": "35.8",
+      "serbs": "36.2",
+      "date": "20180320",
+      "_id": 965
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02553",
+      "cerbs": "0.02943",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180320",
+      "_id": 966
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180320",
+      "_id": 967
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.384",
+      "cerbs": "7.974",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180320",
+      "_id": 968
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.511",
+      "cerbs": "4.673",
+      "serbb": "4.583",
+      "serbs": "4.633",
+      "date": "20180320",
+      "_id": 969
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.825",
+      "cerbs": "29.367",
+      "serbb": "29.125",
+      "serbs": "29.225",
+      "date": "20180321",
+      "_id": 970
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.573",
+      "cerbs": "3.763",
+      "serbb": "3.688",
+      "serbs": "3.748",
+      "date": "20180321",
+      "_id": 971
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.85",
+      "cerbs": "41.78",
+      "serbb": "40.72",
+      "serbs": "41.14",
+      "date": "20180321",
+      "_id": 972
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.16",
+      "cerbs": "22.82",
+      "serbb": "22.35",
+      "serbs": "22.58",
+      "date": "20180321",
+      "_id": 973
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.02",
+      "cerbs": "22.76",
+      "serbb": "22.29",
+      "serbs": "22.51",
+      "date": "20180321",
+      "_id": 974
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.63",
+      "cerbs": "22.41",
+      "serbb": "22.05",
+      "serbs": "22.23",
+      "date": "20180321",
+      "_id": 975
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "29.87",
+      "cerbs": "30.93",
+      "serbb": "30.4",
+      "serbs": "30.69",
+      "date": "20180321",
+      "_id": 976
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2661",
+      "cerbs": "0.2771",
+      "serbb": "0.2725",
+      "serbs": "0.2765",
+      "date": "20180321",
+      "_id": 977
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.4",
+      "serbs": "2.48",
+      "date": "20180321",
+      "_id": 978
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.17",
+      "cerbs": "3.68",
+      "serbb": "3.51",
+      "serbs": "3.61",
+      "date": "20180321",
+      "_id": 979
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.61",
+      "cerbs": "21.24",
+      "serbb": "20.85",
+      "serbs": "21.05",
+      "date": "20180321",
+      "_id": 980
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8312",
+      "cerbs": "0.9742",
+      "serbb": "0.9197",
+      "serbs": "0.9597",
+      "date": "20180321",
+      "_id": 981
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4861",
+      "cerbs": "0.6191",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180321",
+      "_id": 982
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180321",
+      "_id": 983
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.13",
+      "cerbs": "36.28",
+      "serbb": "35.63",
+      "serbs": "36.03",
+      "date": "20180321",
+      "_id": 984
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.0255",
+      "cerbs": "0.0294",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180321",
+      "_id": 985
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.00091",
+      "cerbs": "0.00141",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180321",
+      "_id": 986
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.373",
+      "cerbs": "7.963",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180321",
+      "_id": 987
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.514",
+      "cerbs": "4.676",
+      "serbb": "4.586",
+      "serbs": "4.636",
+      "date": "20180321",
+      "_id": 988
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.795",
+      "cerbs": "29.337",
+      "serbb": "29.095",
+      "serbs": "29.195",
+      "date": "20180322",
+      "_id": 989
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.569",
+      "cerbs": "3.759",
+      "serbb": "3.684",
+      "serbs": "3.744",
+      "date": "20180322",
+      "_id": 990
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "40.2",
+      "cerbs": "42.13",
+      "serbb": "41.07",
+      "serbs": "41.49",
+      "date": "20180322",
+      "_id": 991
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.28",
+      "cerbs": "22.94",
+      "serbb": "22.47",
+      "serbs": "22.7",
+      "date": "20180322",
+      "_id": 992
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.24",
+      "cerbs": "22.98",
+      "serbb": "22.51",
+      "serbs": "22.73",
+      "date": "20180322",
+      "_id": 993
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.69",
+      "cerbs": "22.47",
+      "serbb": "22.11",
+      "serbs": "22.29",
+      "date": "20180322",
+      "_id": 994
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.12",
+      "cerbs": "31.18",
+      "serbb": "30.65",
+      "serbs": "30.94",
+      "date": "20180322",
+      "_id": 995
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2675",
+      "cerbs": "0.2785",
+      "serbb": "0.2739",
+      "serbs": "0.2779",
+      "date": "20180322",
+      "_id": 996
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.43",
+      "serbs": "2.51",
+      "date": "20180322",
+      "_id": 997
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.18",
+      "cerbs": "3.69",
+      "serbb": "3.52",
+      "serbs": "3.62",
+      "date": "20180322",
+      "_id": 998
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.78",
+      "cerbs": "21.41",
+      "serbb": "21.02",
+      "serbs": "21.22",
+      "date": "20180322",
+      "_id": 999
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8301",
+      "cerbs": "0.9731",
+      "serbb": "0.9186",
+      "serbs": "0.9586",
+      "date": "20180322",
+      "_id": 1000
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4846",
+      "cerbs": "0.6176",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180322",
+      "_id": 1001
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180322",
+      "_id": 1002
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.36",
+      "cerbs": "36.51",
+      "serbb": "35.86",
+      "serbs": "36.26",
+      "date": "20180322",
+      "_id": 1003
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02544",
+      "cerbs": "0.02934",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180322",
+      "_id": 1004
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.0009",
+      "cerbs": "0.0014",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180322",
+      "_id": 1005
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.391",
+      "cerbs": "7.981",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180322",
+      "_id": 1006
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.516",
+      "cerbs": "4.678",
+      "serbb": "4.588",
+      "serbs": "4.638",
+      "date": "20180322",
+      "_id": 1007
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.81",
+      "cerbs": "29.352",
+      "serbb": "29.11",
+      "serbs": "29.21",
+      "date": "20180323",
+      "_id": 1008
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.57",
+      "cerbs": "3.76",
+      "serbb": "3.685",
+      "serbs": "3.745",
+      "date": "20180323",
+      "_id": 1009
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "40.04",
+      "cerbs": "41.97",
+      "serbb": "40.91",
+      "serbs": "41.33",
+      "date": "20180323",
+      "_id": 1010
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.21",
+      "cerbs": "22.87",
+      "serbb": "22.4",
+      "serbs": "22.63",
+      "date": "20180323",
+      "_id": 1011
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.22",
+      "cerbs": "22.96",
+      "serbb": "22.49",
+      "serbs": "22.71",
+      "date": "20180323",
+      "_id": 1012
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.66",
+      "cerbs": "22.44",
+      "serbb": "22.08",
+      "serbs": "22.26",
+      "date": "20180323",
+      "_id": 1013
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.09",
+      "cerbs": "31.15",
+      "serbb": "30.62",
+      "serbs": "30.91",
+      "date": "20180323",
+      "_id": 1014
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2693",
+      "cerbs": "0.2803",
+      "serbb": "0.2757",
+      "serbs": "0.2797",
+      "date": "20180323",
+      "_id": 1015
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.42",
+      "serbs": "2.5",
+      "date": "20180323",
+      "_id": 1016
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.14",
+      "cerbs": "3.65",
+      "serbb": "3.48",
+      "serbs": "3.58",
+      "date": "20180323",
+      "_id": 1017
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.76",
+      "cerbs": "21.39",
+      "serbb": "21",
+      "serbs": "21.2",
+      "date": "20180323",
+      "_id": 1018
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8302",
+      "cerbs": "0.9732",
+      "serbb": "0.9187",
+      "serbs": "0.9587",
+      "date": "20180323",
+      "_id": 1019
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4832",
+      "cerbs": "0.6162",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180323",
+      "_id": 1020
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180323",
+      "_id": 1021
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.24",
+      "cerbs": "36.39",
+      "serbb": "35.74",
+      "serbs": "36.14",
+      "date": "20180323",
+      "_id": 1022
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02524",
+      "cerbs": "0.02914",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180323",
+      "_id": 1023
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.0009",
+      "cerbs": "0.0014",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180323",
+      "_id": 1024
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.381",
+      "cerbs": "7.971",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180323",
+      "_id": 1025
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.513",
+      "cerbs": "4.675",
+      "serbb": "4.585",
+      "serbs": "4.635",
+      "date": "20180323",
+      "_id": 1026
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.795",
+      "cerbs": "29.337",
+      "serbb": "29.095",
+      "serbs": "29.195",
+      "date": "20180326",
+      "_id": 1027
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.568",
+      "cerbs": "3.758",
+      "serbb": "3.683",
+      "serbs": "3.743",
+      "date": "20180326",
+      "_id": 1028
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "40.28",
+      "cerbs": "42.21",
+      "serbb": "41.15",
+      "serbs": "41.57",
+      "date": "20180326",
+      "_id": 1029
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.23",
+      "cerbs": "22.89",
+      "serbb": "22.42",
+      "serbs": "22.65",
+      "date": "20180326",
+      "_id": 1030
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.29",
+      "cerbs": "23.03",
+      "serbb": "22.56",
+      "serbs": "22.78",
+      "date": "20180326",
+      "_id": 1031
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.72",
+      "cerbs": "22.5",
+      "serbb": "22.14",
+      "serbs": "22.32",
+      "date": "20180326",
+      "_id": 1032
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.08",
+      "cerbs": "31.14",
+      "serbb": "30.61",
+      "serbs": "30.9",
+      "date": "20180326",
+      "_id": 1033
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2689",
+      "cerbs": "0.2799",
+      "serbb": "0.2753",
+      "serbs": "0.2793",
+      "date": "20180326",
+      "_id": 1034
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.46",
+      "serbs": "2.54",
+      "date": "20180326",
+      "_id": 1035
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.17",
+      "cerbs": "3.68",
+      "serbb": "3.51",
+      "serbs": "3.61",
+      "date": "20180326",
+      "_id": 1036
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.89",
+      "cerbs": "21.52",
+      "serbb": "21.13",
+      "serbs": "21.33",
+      "date": "20180326",
+      "_id": 1037
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8315",
+      "cerbs": "0.9745",
+      "serbb": "0.92",
+      "serbs": "0.96",
+      "date": "20180326",
+      "_id": 1038
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4839",
+      "cerbs": "0.6169",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180326",
+      "_id": 1039
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180326",
+      "_id": 1040
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.39",
+      "cerbs": "36.54",
+      "serbb": "35.89",
+      "serbs": "36.29",
+      "date": "20180326",
+      "_id": 1041
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02527",
+      "cerbs": "0.02917",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180326",
+      "_id": 1042
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.0009",
+      "cerbs": "0.0014",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180326",
+      "_id": 1043
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.406",
+      "cerbs": "7.996",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180326",
+      "_id": 1044
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.538",
+      "cerbs": "4.7",
+      "serbb": "4.61",
+      "serbs": "4.66",
+      "date": "20180326",
+      "_id": 1045
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.785",
+      "cerbs": "29.327",
+      "serbb": "29.085",
+      "serbs": "29.185",
+      "date": "20180327",
+      "_id": 1046
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.567",
+      "cerbs": "3.757",
+      "serbb": "3.682",
+      "serbs": "3.742",
+      "date": "20180327",
+      "_id": 1047
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "40.25",
+      "cerbs": "42.18",
+      "serbb": "41.12",
+      "serbs": "41.54",
+      "date": "20180327",
+      "_id": 1048
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.22",
+      "cerbs": "22.88",
+      "serbb": "22.41",
+      "serbs": "22.64",
+      "date": "20180327",
+      "_id": 1049
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.3",
+      "cerbs": "23.04",
+      "serbb": "22.57",
+      "serbs": "22.79",
+      "date": "20180327",
+      "_id": 1050
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.78",
+      "cerbs": "22.56",
+      "serbb": "22.2",
+      "serbs": "22.38",
+      "date": "20180327",
+      "_id": 1051
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.18",
+      "cerbs": "31.24",
+      "serbb": "30.71",
+      "serbs": "31",
+      "date": "20180327",
+      "_id": 1052
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2679",
+      "cerbs": "0.2789",
+      "serbb": "0.2743",
+      "serbs": "0.2783",
+      "date": "20180327",
+      "_id": 1053
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.46",
+      "serbs": "2.54",
+      "date": "20180327",
+      "_id": 1054
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.18",
+      "cerbs": "3.69",
+      "serbb": "3.52",
+      "serbs": "3.62",
+      "date": "20180327",
+      "_id": 1055
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.89",
+      "cerbs": "21.52",
+      "serbb": "21.13",
+      "serbs": "21.33",
+      "date": "20180327",
+      "_id": 1056
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8315",
+      "cerbs": "0.9745",
+      "serbb": "0.92",
+      "serbs": "0.96",
+      "date": "20180327",
+      "_id": 1057
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4833",
+      "cerbs": "0.6163",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180327",
+      "_id": 1058
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180327",
+      "_id": 1059
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.62",
+      "cerbs": "36.77",
+      "serbb": "36.12",
+      "serbs": "36.52",
+      "date": "20180327",
+      "_id": 1060
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02547",
+      "cerbs": "0.02937",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180327",
+      "_id": 1061
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.0009",
+      "cerbs": "0.0014",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180327",
+      "_id": 1062
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.461",
+      "cerbs": "8.051",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180327",
+      "_id": 1063
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.565",
+      "cerbs": "4.727",
+      "serbb": "4.637",
+      "serbs": "4.687",
+      "date": "20180327",
+      "_id": 1064
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.805",
+      "cerbs": "29.347",
+      "serbb": "29.105",
+      "serbs": "29.205",
+      "date": "20180328",
+      "_id": 1065
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.57",
+      "cerbs": "3.76",
+      "serbb": "3.685",
+      "serbs": "3.745",
+      "date": "20180328",
+      "_id": 1066
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "40.25",
+      "cerbs": "42.18",
+      "serbb": "41.12",
+      "serbs": "41.54",
+      "date": "20180328",
+      "_id": 1067
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.04",
+      "cerbs": "22.7",
+      "serbb": "22.23",
+      "serbs": "22.46",
+      "date": "20180328",
+      "_id": 1068
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.22",
+      "cerbs": "22.96",
+      "serbb": "22.49",
+      "serbs": "22.71",
+      "date": "20180328",
+      "_id": 1069
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.77",
+      "cerbs": "22.55",
+      "serbb": "22.19",
+      "serbs": "22.37",
+      "date": "20180328",
+      "_id": 1070
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "30.04",
+      "cerbs": "31.1",
+      "serbb": "30.57",
+      "serbs": "30.86",
+      "date": "20180328",
+      "_id": 1071
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2681",
+      "cerbs": "0.2791",
+      "serbb": "0.2745",
+      "serbs": "0.2785",
+      "date": "20180328",
+      "_id": 1072
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.45",
+      "serbs": "2.53",
+      "date": "20180328",
+      "_id": 1073
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.14",
+      "cerbs": "3.65",
+      "serbb": "3.48",
+      "serbs": "3.58",
+      "date": "20180328",
+      "_id": 1074
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.81",
+      "cerbs": "21.44",
+      "serbb": "21.05",
+      "serbs": "21.25",
+      "date": "20180328",
+      "_id": 1075
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8306",
+      "cerbs": "0.9736",
+      "serbb": "0.9191",
+      "serbs": "0.9591",
+      "date": "20180328",
+      "_id": 1076
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4854",
+      "cerbs": "0.6184",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180328",
+      "_id": 1077
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180328",
+      "_id": 1078
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.45",
+      "cerbs": "36.6",
+      "serbb": "35.95",
+      "serbs": "36.35",
+      "date": "20180328",
+      "_id": 1079
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02552",
+      "cerbs": "0.02942",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180328",
+      "_id": 1080
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.0009",
+      "cerbs": "0.0014",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180328",
+      "_id": 1081
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.488",
+      "cerbs": "8.078",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180328",
+      "_id": 1082
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.55",
+      "cerbs": "4.712",
+      "serbb": "4.622",
+      "serbs": "4.672",
+      "date": "20180328",
+      "_id": 1083
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.8",
+      "cerbs": "29.342",
+      "serbb": "29.1",
+      "serbs": "29.2",
+      "date": "20180329",
+      "_id": 1084
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.569",
+      "cerbs": "3.759",
+      "serbb": "3.684",
+      "serbs": "3.744",
+      "date": "20180329",
+      "_id": 1085
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.89",
+      "cerbs": "41.82",
+      "serbb": "40.76",
+      "serbs": "41.18",
+      "date": "20180329",
+      "_id": 1086
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.07",
+      "cerbs": "22.73",
+      "serbb": "22.26",
+      "serbs": "22.49",
+      "date": "20180329",
+      "_id": 1087
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.2",
+      "cerbs": "22.94",
+      "serbb": "22.47",
+      "serbs": "22.69",
+      "date": "20180329",
+      "_id": 1088
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.71",
+      "cerbs": "22.49",
+      "serbb": "22.13",
+      "serbs": "22.31",
+      "date": "20180329",
+      "_id": 1089
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "29.78",
+      "cerbs": "30.84",
+      "serbb": "30.31",
+      "serbs": "30.6",
+      "date": "20180329",
+      "_id": 1090
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2652",
+      "cerbs": "0.2762",
+      "serbb": "0.2716",
+      "serbs": "0.2756",
+      "date": "20180329",
+      "_id": 1091
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.42",
+      "serbs": "2.5",
+      "date": "20180329",
+      "_id": 1092
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.1",
+      "cerbs": "3.61",
+      "serbb": "3.44",
+      "serbs": "3.54",
+      "date": "20180329",
+      "_id": 1093
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.66",
+      "cerbs": "21.29",
+      "serbb": "20.9",
+      "serbs": "21.1",
+      "date": "20180329",
+      "_id": 1094
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8293",
+      "cerbs": "0.9723",
+      "serbb": "0.9178",
+      "serbs": "0.9578",
+      "date": "20180329",
+      "_id": 1095
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4841",
+      "cerbs": "0.6171",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180329",
+      "_id": 1096
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180329",
+      "_id": 1097
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.2",
+      "cerbs": "36.35",
+      "serbb": "35.7",
+      "serbs": "36.1",
+      "date": "20180329",
+      "_id": 1098
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02561",
+      "cerbs": "0.02951",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180329",
+      "_id": 1099
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.0009",
+      "cerbs": "0.0014",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180329",
+      "_id": 1100
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.474",
+      "cerbs": "8.064",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180329",
+      "_id": 1101
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.543",
+      "cerbs": "4.705",
+      "serbb": "4.615",
+      "serbs": "4.665",
+      "date": "20180329",
+      "_id": 1102
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.755",
+      "cerbs": "29.297",
+      "serbb": "29.055",
+      "serbs": "29.155",
+      "date": "20180330",
+      "_id": 1103
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.563",
+      "cerbs": "3.753",
+      "serbb": "3.678",
+      "serbs": "3.738",
+      "date": "20180330",
+      "_id": 1104
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.82",
+      "cerbs": "41.75",
+      "serbb": "40.69",
+      "serbs": "41.11",
+      "date": "20180330",
+      "_id": 1105
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.11",
+      "cerbs": "22.77",
+      "serbb": "22.3",
+      "serbs": "22.53",
+      "date": "20180330",
+      "_id": 1106
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.25",
+      "cerbs": "22.99",
+      "serbb": "22.52",
+      "serbs": "22.74",
+      "date": "20180330",
+      "_id": 1107
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.71",
+      "cerbs": "22.49",
+      "serbb": "22.13",
+      "serbs": "22.31",
+      "date": "20180330",
+      "_id": 1108
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "29.84",
+      "cerbs": "30.9",
+      "serbb": "30.37",
+      "serbs": "30.66",
+      "date": "20180330",
+      "_id": 1109
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2657",
+      "cerbs": "0.2767",
+      "serbb": "0.2721",
+      "serbs": "0.2761",
+      "date": "20180330",
+      "_id": 1110
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.42",
+      "serbs": "2.5",
+      "date": "20180330",
+      "_id": 1111
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.1",
+      "cerbs": "3.61",
+      "serbb": "3.44",
+      "serbs": "3.54",
+      "date": "20180330",
+      "_id": 1112
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.74",
+      "cerbs": "21.37",
+      "serbb": "20.98",
+      "serbs": "21.18",
+      "date": "20180330",
+      "_id": 1113
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8293",
+      "cerbs": "0.9723",
+      "serbb": "0.9178",
+      "serbs": "0.9578",
+      "date": "20180330",
+      "_id": 1114
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4843",
+      "cerbs": "0.6173",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180330",
+      "_id": 1115
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180330",
+      "_id": 1116
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.17",
+      "cerbs": "36.32",
+      "serbb": "35.67",
+      "serbs": "36.07",
+      "date": "20180330",
+      "_id": 1117
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02567",
+      "cerbs": "0.02957",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180330",
+      "_id": 1118
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.0009",
+      "cerbs": "0.0014",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180330",
+      "_id": 1119
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.474",
+      "cerbs": "8.064",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180330",
+      "_id": 1120
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.547",
+      "cerbs": "4.709",
+      "serbb": "4.619",
+      "serbs": "4.669",
+      "date": "20180330",
+      "_id": 1121
+    },
+    {
+      "currency": "美金(USD)",
+      "cerbb": "28.755",
+      "cerbs": "29.297",
+      "serbb": "29.055",
+      "serbs": "29.155",
+      "date": "20180331",
+      "_id": 1122
+    },
+    {
+      "currency": "港幣(HKD)",
+      "cerbb": "3.563",
+      "cerbs": "3.753",
+      "serbb": "3.678",
+      "serbs": "3.738",
+      "date": "20180331",
+      "_id": 1123
+    },
+    {
+      "currency": "英鎊(GBP)",
+      "cerbb": "39.71",
+      "cerbs": "41.64",
+      "serbb": "40.58",
+      "serbs": "41",
+      "date": "20180331",
+      "_id": 1124
+    },
+    {
+      "currency": "澳幣(AUD)",
+      "cerbb": "22.04",
+      "cerbs": "22.7",
+      "serbb": "22.23",
+      "serbs": "22.46",
+      "date": "20180331",
+      "_id": 1125
+    },
+    {
+      "currency": "加拿大幣(CAD)",
+      "cerbb": "22.19",
+      "cerbs": "22.93",
+      "serbb": "22.46",
+      "serbs": "22.68",
+      "date": "20180331",
+      "_id": 1126
+    },
+    {
+      "currency": "新加坡幣(SGD)",
+      "cerbb": "21.7",
+      "cerbs": "22.48",
+      "serbb": "22.12",
+      "serbs": "22.3",
+      "date": "20180331",
+      "_id": 1127
+    },
+    {
+      "currency": "瑞士法郎(CHF)",
+      "cerbb": "29.82",
+      "cerbs": "30.88",
+      "serbb": "30.35",
+      "serbs": "30.64",
+      "date": "20180331",
+      "_id": 1128
+    },
+    {
+      "currency": "日圓(JPY)",
+      "cerbb": "0.2655",
+      "cerbs": "0.2765",
+      "serbb": "0.2719",
+      "serbs": "0.2759",
+      "date": "20180331",
+      "_id": 1129
+    },
+    {
+      "currency": "南非幣(ZAR)",
+      "cerbb": "-",
+      "cerbs": "-",
+      "serbb": "2.41",
+      "serbs": "2.49",
+      "date": "20180331",
+      "_id": 1130
+    },
+    {
+      "currency": "瑞典幣(SEK)",
+      "cerbb": "3.1",
+      "cerbs": "3.61",
+      "serbb": "3.44",
+      "serbs": "3.54",
+      "date": "20180331",
+      "_id": 1131
+    },
+    {
+      "currency": "紐元(NZD)",
+      "cerbb": "20.76",
+      "cerbs": "21.39",
+      "serbb": "21",
+      "serbs": "21.2",
+      "date": "20180331",
+      "_id": 1132
+    },
+    {
+      "currency": "泰幣(THB)",
+      "cerbb": "0.8299",
+      "cerbs": "0.9729",
+      "serbb": "0.9184",
+      "serbs": "0.9584",
+      "date": "20180331",
+      "_id": 1133
+    },
+    {
+      "currency": "菲國比索(PHP)",
+      "cerbb": "0.4844",
+      "cerbs": "0.6174",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180331",
+      "_id": 1134
+    },
+    {
+      "currency": "印尼幣(IDR)",
+      "cerbb": "0.00178",
+      "cerbs": "0.00248",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180331",
+      "_id": 1135
+    },
+    {
+      "currency": "歐元(EUR)",
+      "cerbb": "35.17",
+      "cerbs": "36.32",
+      "serbb": "35.67",
+      "serbs": "36.07",
+      "date": "20180331",
+      "_id": 1136
+    },
+    {
+      "currency": "韓元(KRW)",
+      "cerbb": "0.02569",
+      "cerbs": "0.02959",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180331",
+      "_id": 1137
+    },
+    {
+      "currency": "越南盾(VND)",
+      "cerbb": "0.0009",
+      "cerbs": "0.0014",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180331",
+      "_id": 1138
+    },
+    {
+      "currency": "馬來幣(MYR)",
+      "cerbb": "6.471",
+      "cerbs": "8.061",
+      "serbb": "-",
+      "serbs": "-",
+      "date": "20180331",
+      "_id": 1139
+    },
+    {
+      "currency": "人民幣(CNY)",
+      "cerbb": "4.55",
+      "cerbs": "4.712",
+      "serbb": "4.622",
+      "serbs": "4.672",
+      "date": "20180331",
+      "_id": 1140
+    }
+  ]
+}
